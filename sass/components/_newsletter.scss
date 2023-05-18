@@ -1,6 +1,6 @@
 .newsletter {
-  display: inline-flex;
-  justify-content: center;
+  display: flex;
+  flex-direction: column;
   padding-top: 12px;
 
   &__title {
